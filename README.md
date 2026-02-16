@@ -1,5 +1,5 @@
 # Olá, eu sou Pedro Nunes 👋
-Desenvolvedor Back-End
+Desenvolvedor Full Stack
 
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
