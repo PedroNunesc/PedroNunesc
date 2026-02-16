@@ -1,4 +1,3 @@
-# 👋 Olá, meu nome é Pedro Nunes!
 # Olá, eu sou Pedro Nunes 👋
 Desenvolvedor Back-End
 
